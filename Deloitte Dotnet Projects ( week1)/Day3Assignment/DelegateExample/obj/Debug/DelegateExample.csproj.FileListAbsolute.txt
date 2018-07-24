@@ -1,0 +1,5 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Assignment\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Assignment\DelegateExample\bin\Debug\DelegateExample.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Assignment\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Assignment\DelegateExample\obj\Debug\DelegateExample.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Assignment\DelegateExample\obj\Debug\DelegateExample.pdb

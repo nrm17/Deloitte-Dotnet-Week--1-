@@ -1,0 +1,1 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Solution1\NonGenericCollection\bin\Debug\NonGenericCollection.exe.config

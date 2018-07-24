@@ -1,0 +1,5 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day2Assignment\Assignment 2\bin\Debug\Assignment 2.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day2Assignment\Assignment 2\bin\Debug\Assignment 2.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day2Assignment\Assignment 2\bin\Debug\Assignment 2.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day2Assignment\Assignment 2\obj\Debug\Assignment 2.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day2Assignment\Assignment 2\obj\Debug\Assignment 2.pdb

@@ -1,0 +1,9 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\bin\Debug\ADOExample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\bin\Debug\ADOExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\bin\Debug\ADOExample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\obj\Debug\ADOExample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\obj\Debug\ADOExample.Form1.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\obj\Debug\ADOExample.Properties.Resources.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\obj\Debug\ADOExample.csproj.GenerateResource.Cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\obj\Debug\ADOExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ADOExample\obj\Debug\ADOExample.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqExample1", "linqExample1\linqExample1.csproj", "{49BA998F-C52E-4BD3-9973-A487C53D3197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExample", "DelegateExample\DelegateExample.csproj", "{0A180CC4-CB1D-4E56-ABC9-FB5B1FEBDD83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeExample", "AttributeExample\AttributeExample.csproj", "{B4C8CC77-FF9A-4806-9086-BCE8CC262844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySerialization", "BinarySerialization\BinarySerialization.csproj", "{68D6908E-F2E6-4D58-B6EA-C8D9BE8F6068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLSerializationExample", "XMLSerializationExample\XMLSerializationExample.csproj", "{245F7F73-19F9-452D-876D-CBDE947E7507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLInCSharp", "XMLInCSharp\XMLInCSharp.csproj", "{71E51F5D-E81E-4BAB-8F1E-EEDD27C4FECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49BA998F-C52E-4BD3-9973-A487C53D3197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BA998F-C52E-4BD3-9973-A487C53D3197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BA998F-C52E-4BD3-9973-A487C53D3197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BA998F-C52E-4BD3-9973-A487C53D3197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A180CC4-CB1D-4E56-ABC9-FB5B1FEBDD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A180CC4-CB1D-4E56-ABC9-FB5B1FEBDD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A180CC4-CB1D-4E56-ABC9-FB5B1FEBDD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A180CC4-CB1D-4E56-ABC9-FB5B1FEBDD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C8CC77-FF9A-4806-9086-BCE8CC262844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C8CC77-FF9A-4806-9086-BCE8CC262844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C8CC77-FF9A-4806-9086-BCE8CC262844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C8CC77-FF9A-4806-9086-BCE8CC262844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D6908E-F2E6-4D58-B6EA-C8D9BE8F6068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D6908E-F2E6-4D58-B6EA-C8D9BE8F6068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D6908E-F2E6-4D58-B6EA-C8D9BE8F6068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D6908E-F2E6-4D58-B6EA-C8D9BE8F6068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245F7F73-19F9-452D-876D-CBDE947E7507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245F7F73-19F9-452D-876D-CBDE947E7507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245F7F73-19F9-452D-876D-CBDE947E7507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245F7F73-19F9-452D-876D-CBDE947E7507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E51F5D-E81E-4BAB-8F1E-EEDD27C4FECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E51F5D-E81E-4BAB-8F1E-EEDD27C4FECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E51F5D-E81E-4BAB-8F1E-EEDD27C4FECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E51F5D-E81E-4BAB-8F1E-EEDD27C4FECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
